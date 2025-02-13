@@ -1,0 +1,24 @@
+# This is a comment
+
+import random # Importing a module
+
+# Defining variables
+x = 10
+y = "Hello, World!"
+z = True
+
+# Performing arithmetic operation
+result = x + 5
+
+# Using if-else statement
+if z:
+    print(y)
+else:
+    print(result)
+
+# Defining a function
+def greet(name):
+    print("Hello, " + name + "!")
+
+# Using the function
+greet("Alice")
